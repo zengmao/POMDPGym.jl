@@ -1,4 +1,7 @@
 # POMDPGym
+
+**Note**: This is a fork of <a href="https://github.com/ancorso/POMDPGym.jl">POMDPGym.jl</a> maintained by Anthony Corso, to fix problems with installation on Julia versions 1.10 and 1.11. A <a href="https://github.com/ancorso/POMDPGym.jl/pull/15">pull request</a> has been submitted to merge this fork into the original repository.
+
 Wrapper for <a href="https://gymnasium.farama.org/">Gymnasium</a> environments for reinforcement learning to work with POMDPs.jl. Includes options to get the observation space from pixels.
 
 ## Installation
